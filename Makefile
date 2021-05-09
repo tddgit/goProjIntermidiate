@@ -1,4 +1,4 @@
-PROJECT?=github.com/tddgit/someproject/
+PROJECT?=github.com/YOUR-USER-OR-ORG-NAME/YOUR-REPO-NAME
 
 GOOS?=darwin
 GOARCH?=amd64
